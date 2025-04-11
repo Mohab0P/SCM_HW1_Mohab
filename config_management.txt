@@ -5,3 +5,15 @@ Enhances Collaboration: Facilitates coordinated work among team members by provi
 Improves Traceability: Records all modifications, allowing teams to track what changed, when, and why.
 Enables Automation: Supports automated builds, testing, and deployments, reducing manual errors.
 Simplifies Rollbacks: Makes it easier to revert to previous versions if issues arise, improving system stability.
+
+Best Practices in Software Configuration Management
+
+    Use version control systems like Git to track changes and maintain a history.
+
+    Follow branching strategies (e.g., Git Flow) to manage different versions.
+
+    Write clear commit messages to describe changes accurately.
+
+    Use pull requests & code reviews for quality control before merging.
+
+    Automate builds & testing with CI/CD pipelines to ensure reliability.
